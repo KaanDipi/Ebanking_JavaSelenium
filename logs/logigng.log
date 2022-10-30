@@ -1,0 +1,271 @@
+2022-10-26 21:25:02 INFO  BaseClass:15 - URL is opened
+2022-10-26 21:25:04 INFO  BaseClass:26 - Login is successful
+2022-10-26 21:25:04 INFO  BaseClass:33 - Login is passed
+2022-10-26 23:10:00 INFO  BaseClass:15 - URL is opened
+2022-10-26 23:10:47 INFO  BaseClass:15 - URL is opened
+2022-10-26 23:10:49 INFO  BaseClass:26 - Login is successful
+2022-10-26 23:10:49 INFO  BaseClass:33 - Login is passed
+2022-10-27 07:03:01 INFO  BaseClass:14 - URL is opened
+2022-10-27 07:03:03 INFO  BaseClass:25 - Login is successful
+2022-10-27 07:03:03 INFO  BaseClass:32 - Login is passed
+2022-10-27 15:32:26 INFO  BaseClass:14 - URL is opened
+2022-10-27 15:32:29 INFO  BaseClass:25 - Login is successful
+2022-10-27 15:32:29 INFO  BaseClass:32 - Login is passed
+2022-10-27 15:43:34 INFO  BaseClass:14 - URL is opened
+2022-10-27 15:43:36 INFO  BaseClass:25 - Login is successful
+2022-10-27 15:43:36 INFO  BaseClass:32 - Login is passed
+2022-10-27 15:56:52 INFO  BaseClass:14 - URL is opened
+2022-10-27 15:56:54 INFO  BaseClass:25 - Login is successful
+2022-10-27 15:56:54 INFO  BaseClass:32 - Login is passed
+2022-10-27 15:58:21 INFO  BaseClass:14 - URL is opened
+2022-10-27 15:58:24 INFO  BaseClass:25 - Login is successful
+2022-10-27 15:58:24 INFO  BaseClass:32 - Login is passed
+2022-10-27 16:03:34 INFO  BaseClass:14 - URL is opened
+2022-10-27 16:03:36 INFO  BaseClass:25 - Login is successful
+2022-10-27 16:03:36 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:25:37 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:25:39 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:25:39 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:29:06 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:29:08 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:29:08 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:32:17 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:32:19 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:32:19 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:44:16 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:44:18 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:44:18 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:44:52 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:44:54 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:44:54 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:47:19 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:47:20 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:47:21 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:52:27 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:52:29 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:52:29 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:53:49 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:53:51 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:53:51 INFO  BaseClass:32 - Login is passed
+2022-10-27 21:56:04 INFO  BaseClass:14 - URL is opened
+2022-10-27 21:56:06 INFO  BaseClass:25 - Login is successful
+2022-10-27 21:56:06 INFO  BaseClass:32 - Login is passed
+2022-10-27 22:07:46 INFO  BaseClass:15 - URL is opened
+2022-10-27 22:07:48 INFO  BaseClass:26 - Login is successful
+2022-10-27 22:11:51 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:11:53 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:14:29 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:14:31 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:16:21 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:16:23 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:16:23 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:17:22 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:17:24 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:17:24 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:20:20 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:20:22 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:20:22 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:22:05 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:22:07 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:22:07 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:26:14 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:26:16 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:26:16 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:27:54 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:27:55 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:29:51 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:29:52 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:29:52 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:32:10 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:32:11 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:32:11 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:34:53 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:34:55 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:34:55 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:35:27 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:35:29 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:36:15 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:36:17 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:36:17 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:38:56 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:38:58 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:38:58 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:40:00 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:40:02 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:43:36 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:43:38 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:44:20 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:44:22 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:46:09 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:46:10 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:46:10 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:47:26 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:47:28 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:47:28 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:48:34 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:48:35 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:52:31 INFO  BaseClass:16 - URL is opened
+2022-10-27 22:52:33 INFO  BaseClass:27 - Login is successful
+2022-10-27 22:52:33 INFO  BaseClass:34 - Login is passed
+2022-10-27 22:56:04 INFO  BaseClass:17 - URL is opened
+2022-10-27 22:56:06 INFO  BaseClass:28 - Login is successful
+2022-10-27 22:56:06 INFO  BaseClass:35 - Login is passed
+2022-10-28 08:50:42 INFO  BaseClass:17 - URL is opened
+2022-10-28 08:50:44 INFO  BaseClass:28 - Login is successful
+2022-10-28 08:50:44 INFO  BaseClass:35 - Login is passed
+2022-10-28 09:00:10 INFO  BaseClass:17 - URL is opened
+2022-10-28 09:00:12 INFO  BaseClass:28 - Login is successful
+2022-10-28 09:00:12 INFO  BaseClass:35 - Login is passed
+2022-10-28 09:01:00 INFO  BaseClass:17 - URL is opened
+2022-10-28 09:01:03 INFO  BaseClass:28 - Login is successful
+2022-10-28 09:01:03 INFO  BaseClass:35 - Login is passed
+2022-10-28 09:02:31 INFO  BaseClass:17 - URL is opened
+2022-10-28 09:02:33 INFO  BaseClass:28 - Login is successful
+2022-10-28 09:02:33 INFO  BaseClass:35 - Login is passed
+2022-10-28 09:02:45 INFO  BaseClass:17 - URL is opened
+2022-10-28 09:02:47 INFO  BaseClass:28 - Login is successful
+2022-10-28 09:02:47 INFO  BaseClass:35 - Login is passed
+2022-10-28 09:04:10 INFO  BaseClass:17 - URL is opened
+2022-10-28 09:04:12 INFO  BaseClass:28 - Login is successful
+2022-10-28 09:04:12 INFO  BaseClass:35 - Login is passed
+2022-10-28 09:05:42 INFO  BaseClass:17 - URL is opened
+2022-10-28 09:05:44 INFO  BaseClass:28 - Login is successful
+2022-10-28 09:05:44 INFO  BaseClass:35 - Login is passed
+2022-10-28 09:07:34 INFO  BaseClass:17 - URL is opened
+2022-10-28 09:07:36 INFO  BaseClass:28 - Login is successful
+2022-10-28 09:07:36 INFO  BaseClass:35 - Login is passed
+2022-10-28 09:08:30 INFO  BaseClass:17 - URL is opened
+2022-10-28 09:08:32 INFO  BaseClass:28 - Login is successful
+2022-10-28 09:08:32 INFO  BaseClass:35 - Login is passed
+2022-10-28 10:02:57 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:02:59 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:02:59 INFO  BaseClass:35 - Login is passed
+2022-10-28 10:15:51 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:15:53 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:15:53 INFO  BaseClass:35 - Login is passed
+2022-10-28 10:16:48 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:16:50 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:17:47 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:17:49 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:31:08 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:31:10 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:31:10 INFO  BaseClass:35 - Login is passed
+2022-10-28 10:31:52 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:31:54 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:39:47 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:39:49 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:40:16 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:40:18 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:40:18 INFO  BaseClass:35 - Login is passed
+2022-10-28 10:40:55 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:40:57 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:40:57 INFO  BaseClass:40 - Login is failed
+2022-10-28 10:42:03 INFO  BaseClass:17 - URL is opened
+2022-10-28 10:42:05 INFO  BaseClass:28 - Login is successful
+2022-10-28 10:42:05 INFO  BaseClass:35 - Test is passed
+2022-10-28 10:58:52 INFO  BaseClass:21 - URL is opened
+2022-10-28 10:58:53 INFO  BaseClass:31 - Login is successful
+2022-10-28 10:59:54 INFO  BaseClass:21 - URL is opened
+2022-10-28 10:59:55 INFO  BaseClass:31 - Login is successful
+2022-10-28 11:03:09 INFO  BaseClass:21 - URL is opened
+2022-10-28 11:03:10 INFO  BaseClass:31 - Login is successful
+2022-10-28 11:05:01 INFO  BaseClass:21 - URL is opened
+2022-10-28 11:05:02 INFO  BaseClass:31 - Login is successful
+2022-10-28 11:05:40 INFO  BaseClass:21 - URL is opened
+2022-10-28 11:05:41 INFO  BaseClass:31 - Login is successful
+2022-10-28 11:06:19 INFO  BaseClass:21 - URL is opened
+2022-10-28 11:06:20 INFO  BaseClass:31 - Login is successful
+2022-10-28 11:21:54 INFO  BaseClass:21 - URL is opened
+2022-10-28 11:28:02 INFO  BaseClass:21 - URL is opened
+2022-10-28 11:28:03 INFO  BaseClass:31 - Login is successful
+2022-10-28 11:28:31 INFO  BaseClass:21 - URL is opened
+2022-10-28 11:28:32 INFO  BaseClass:31 - Login is successful
+2022-10-28 11:28:32 INFO  BaseClass:38 - Test is passed
+2022-10-28 12:00:55 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:01:26 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:01:52 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:03:15 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:12:22 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:12:53 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:14:35 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:16:19 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:16:20 INFO  BaseClass:31 - Login is successful
+2022-10-28 12:16:20 INFO  BaseClass:38 - Test is passed
+2022-10-28 12:38:26 INFO  BaseClass:41 - Login passed
+2022-10-28 12:38:34 INFO  BaseClass:41 - Login passed
+2022-10-28 12:38:43 INFO  BaseClass:41 - Login passed
+2022-10-28 12:38:51 INFO  BaseClass:41 - Login passed
+2022-10-28 12:38:59 INFO  BaseClass:41 - Login passed
+2022-10-28 12:47:33 INFO  BaseClass:24 - user name provided
+2022-10-28 12:47:33 INFO  BaseClass:26 - password provided
+2022-10-28 12:47:37 INFO  BaseClass:24 - user name provided
+2022-10-28 12:47:37 INFO  BaseClass:26 - password provided
+2022-10-28 12:47:41 INFO  BaseClass:24 - user name provided
+2022-10-28 12:47:41 INFO  BaseClass:26 - password provided
+2022-10-28 12:47:45 INFO  BaseClass:24 - user name provided
+2022-10-28 12:47:45 INFO  BaseClass:26 - password provided
+2022-10-28 12:47:49 INFO  BaseClass:24 - user name provided
+2022-10-28 12:47:50 INFO  BaseClass:26 - password provided
+2022-10-28 12:48:55 INFO  BaseClass:26 - user name provided
+2022-10-28 12:48:56 INFO  BaseClass:30 - password provided
+2022-10-28 12:49:00 INFO  BaseClass:26 - user name provided
+2022-10-28 12:49:01 INFO  BaseClass:30 - password provided
+2022-10-28 12:49:04 INFO  BaseClass:26 - user name provided
+2022-10-28 12:49:05 INFO  BaseClass:30 - password provided
+2022-10-28 12:49:08 INFO  BaseClass:26 - user name provided
+2022-10-28 12:49:09 INFO  BaseClass:30 - password provided
+2022-10-28 12:49:12 INFO  BaseClass:26 - user name provided
+2022-10-28 12:49:13 INFO  BaseClass:30 - password provided
+2022-10-28 12:54:31 INFO  BaseClass:21 - URL is opened
+2022-10-28 12:54:32 INFO  BaseClass:31 - Login is successful
+2022-10-28 12:54:32 INFO  BaseClass:38 - Test is passed
+2022-10-28 21:16:08 INFO  BaseClass:26 - user name provided
+2022-10-28 21:16:09 INFO  BaseClass:30 - password provided
+2022-10-28 21:16:11 INFO  BaseClass:45 - Login passed
+2022-10-28 21:31:57 INFO  BaseClass:26 - user name provided
+2022-10-28 21:31:58 INFO  BaseClass:30 - password provided
+2022-10-28 21:32:00 INFO  BaseClass:45 - Login passed
+2022-10-28 21:38:03 INFO  BaseClass:25 - user name provided
+2022-10-28 21:38:04 INFO  BaseClass:29 - password provided
+2022-10-28 21:38:06 INFO  BaseClass:44 - Login passed
+2022-10-28 21:38:09 INFO  BaseClass:25 - user name provided
+2022-10-28 21:38:10 INFO  BaseClass:29 - password provided
+2022-10-28 21:38:14 INFO  BaseClass:25 - user name provided
+2022-10-28 21:38:15 INFO  BaseClass:29 - password provided
+2022-10-28 21:38:17 INFO  BaseClass:44 - Login passed
+2022-10-28 21:38:20 INFO  BaseClass:25 - user name provided
+2022-10-28 21:38:21 INFO  BaseClass:29 - password provided
+2022-10-28 21:38:24 INFO  BaseClass:25 - user name provided
+2022-10-28 21:38:25 INFO  BaseClass:29 - password provided
+2022-10-28 21:52:53 INFO  BaseClass:25 - user name provided
+2022-10-28 21:52:55 INFO  BaseClass:29 - password provided
+2022-10-28 21:52:57 INFO  BaseClass:44 - Login passed
+2022-10-28 21:53:00 INFO  BaseClass:25 - user name provided
+2022-10-28 21:53:01 INFO  BaseClass:29 - password provided
+2022-10-28 21:53:04 INFO  BaseClass:25 - user name provided
+2022-10-28 21:53:05 INFO  BaseClass:29 - password provided
+2022-10-28 21:53:07 INFO  BaseClass:44 - Login passed
+2022-10-28 21:53:10 INFO  BaseClass:25 - user name provided
+2022-10-28 21:53:11 INFO  BaseClass:29 - password provided
+2022-10-28 21:53:14 INFO  BaseClass:25 - user name provided
+2022-10-28 21:53:15 INFO  BaseClass:29 - password provided
+2022-10-29 00:26:22 INFO  BaseClass:21 - User name is provided
+2022-10-29 00:26:22 INFO  BaseClass:23 - Passsword is provided
+2022-10-29 00:26:26 INFO  BaseClass:32 - providing customer details....
+2022-10-29 00:26:43 INFO  BaseClass:52 - validation started....
+2022-10-29 00:26:43 INFO  BaseClass:59 - test case passed....
+2022-10-29 23:42:30 INFO  BaseClass:21 - URL is opened
+2022-10-29 23:42:31 INFO  BaseClass:31 - Login is successful
+2022-10-29 23:42:31 INFO  BaseClass:38 - Test is passed
+2022-10-29 23:46:25 INFO  BaseClass:21 - URL is opened
+2022-10-29 23:46:25 INFO  BaseClass:31 - Login is successful
+2022-10-29 23:46:25 INFO  BaseClass:38 - Test is passed
+2022-10-30 00:09:04 INFO  BaseClass:21 - URL is opened
+2022-10-30 00:09:05 INFO  BaseClass:31 - Login is successful
+2022-10-30 00:09:05 INFO  BaseClass:38 - Test is passed
+2022-10-30 00:52:08 INFO  BaseClass:21 - URL is opened
+2022-10-30 00:52:09 INFO  BaseClass:31 - Login is successful
+2022-10-30 00:52:09 INFO  BaseClass:38 - Test is passed
+2022-10-30 00:55:59 INFO  BaseClass:21 - URL is opened
+2022-10-30 00:56:00 INFO  BaseClass:31 - Login is successful
+2022-10-30 00:56:00 INFO  BaseClass:38 - Test is passed

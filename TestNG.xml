@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="e_banking_V1">
+
+  <listeners>
+  	<listener class-name="com.e_banking.utilities.Reporting_Listeners"/>
+  </listeners>
+ 
+  <test name="Default test">
+  	<parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.e_banking.testCases.TC_LoginTest_001"/>    <!-- Normal Test Case -->
+      <!--<class name="com.e_banking.testCases.TC_LoginDDT_002"/> --><!-- Data Driven Test Case -->
+      <!--<class name="com.e_banking.testCases.TC_AddCustomerTest_003"/>--><!-- Data Driven Test Case -->
+
+    </classes>
+  </test> <!-- Default test -->
+
+</suite> <!-- Default suite -->
+
+
+<!-- xml file can run only test Case... 
+we can run this xml file instead of running the TC_LoginTest_001 
+this xml file run the test cases.. test case is depending on now this xml file-->
+
